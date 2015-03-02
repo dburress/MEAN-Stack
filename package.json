@@ -1,0 +1,23 @@
+{
+  "name": "MEAN-Stack",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dburress/MEAN-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dburress/MEAN-Stack/issues"
+  },
+  "homepage": "https://github.com/dburress/MEAN-Stack",
+  "dependencies": {
+    "express": "^4.12.1",
+    "jade": "^1.9.2"
+  }
+}
